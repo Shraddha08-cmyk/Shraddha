@@ -5,7 +5,15 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <!-- <img align="right" alt="Coding" width="400" src="[https://images.app.goo.gl/Gm16krTMttrjLH237](https://images.app.goo.gl/pbtYhu2SasEtebup6](https://images.app.goo.gl/Pg9C4hpLBBYUmezi6)" />
  -->
+ <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+  <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/shraddha-tiwari-a1432724a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shraddha08-cmyk&label=Profile%20views&color=0e75b6&style=flat" alt="shraddha08-cmyk" /> </p>
 
