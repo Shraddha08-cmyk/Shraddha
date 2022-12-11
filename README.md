@@ -34,8 +34,17 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shraddha08-cmyk&show_icons=true&locale=en&layout=compact" alt="shraddha08-cmyk" /></p>
+<h3>:fire: My Stats :</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shraddha08-cmyk&show_icons=true&locale=en" alt="shraddha08-cmyk" /></p>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shraddha08-cmyk&layout=compact&theme=vision-friendly-dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddha08-cmyk&" alt="shraddha08-cmyk" /></p>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shraddha08-cmyk&theme=dark&hide_border=true&currStreakLabel=DDDDDD)
+
+<p>
+<a href="https://github.com/Shraddha08-cmyk"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shraddha08-cmyk&theme=dracula" />
+</span></a> </p>
+
+<p ><img src="https://github-profile-trophy.vercel.app/?username=Shraddha08-cmyk&theme=vue" alt=""/> </p>
+  
+![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
