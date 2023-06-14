@@ -1,4 +1,4 @@
-# Shraddha
+<!-- # Shraddha -->
 <!-- ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
  -->
   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
@@ -13,7 +13,40 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=Shraddha08-cmyk&color=grey">
 </p>
 <br>
+## Projects
+<div >
+    <a href="https://amazon-clone-opal-ten.vercel.app/" >
+    <img src="https://img.shields.io/badge/Amazon Clone-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
+  </a> 
+    <a href="https://github.com/Shraddha08-cmyk/Amazon-Clone.git" >
+   <img src="https://img.shields.io/badge/&lt;&#92;&gt;-white?style=for-the-badge&logoColor=blue" alt="Vercel Badge"/></a><br/>
+   
+   <a href="https://make-my-trip-clone-react-project-2j1in7zf05ry-67h1a1q6k.vercel.app/" >
+    <img src="https://img.shields.io/badge/Make My Trip Clone-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
+  </a> 
+   <a href="https://github.com/Shraddha08-cmyk/MakeMyTrip-Clone---React-Project---2j1in7zf05ry.git" >
+   <img src="https://img.shields.io/badge/&lt;&#92;&gt;-white?style=for-the-badge&logoColor=blue" alt="Vercel Badge"/>
+ </a>
+ <br/>
+  <a href="https://google-meet-clone-five.vercel.app/" >
+    <img src="https://img.shields.io/badge/Google Meet Clone-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
+  </a> 
+   <a href="https://github.com/Shraddha08-cmyk/Google-Meet-Clone.git" >
+   <img src="https://img.shields.io/badge/&lt;&#92;&gt;-white?style=for-the-badge&logoColor=blue" alt="Vercel Badge"/>
+ </a>
+ <br/>
+  <a href="https://video-call-app-ten.vercel.app/#/" >
+    <img src="https://img.shields.io/badge/Video Call App-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
+  </a>
+   <a href="https://github.com/Shraddha08-cmyk/Video-Call-App.git" >
+   <img src="https://img.shields.io/badge/&lt;&#92;&gt;-white?style=for-the-badge&logoColor=blue" alt="Vercel Badge"/>
+ </a>
+ <br/>
 
+  <br>
+  Click :star:if you like the project. Pull Requests are highly appreciated.
+</div>
+<hr>
 
 <!-- <h1 align="center">Hi 👋, I'm Shraddha Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3> -->
