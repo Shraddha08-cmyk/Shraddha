@@ -1,8 +1,22 @@
 # Shraddha
 <!-- ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
  -->
-<h1 align="center">Hi 👋, I'm Shraddha Tiwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+  <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
+<br>
+<p align="center">
+    <h1 align="center">✩&emsp;Shraddha Tiwari&emsp;✩</h1>
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There+👋;Welcome+to+my+profile!;I'm+from+India;I'm+a+WEB+DEVELOPER!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+<p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=Shraddha08-cmyk&color=grey">
+</p>
+<br>
+
+
+<!-- <h1 align="center">Hi 👋, I'm Shraddha Tiwari</h1>
+<h3 align="center">A passionate frontend developer from India</h3> -->
 <!-- <img align="right" alt="Coding" width="400" src="[https://images.app.goo.gl/Gm16krTMttrjLH237](https://images.app.goo.gl/pbtYhu2SasEtebup6](https://images.app.goo.gl/Pg9C4hpLBBYUmezi6)" />
  -->
  <div id="header" align="center">
@@ -17,14 +31,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shraddha08-cmyk&label=Profile%20views&color=0e75b6&style=flat" alt="shraddha08-cmyk" /> </p>
 
-- 🔭 I’m currently working on [Calculator](https://github.com/Shraddha08-cmyk/calculator)
+<!-- - 🔭 I’m currently working on [Calculator](https://github.com/Shraddha08-cmyk/calculator)
 
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shraddha08-cmyk/PORTFOLIO-Me](https://github.com/Shraddha08-cmyk/PORTFOLIO-Me)
 
 - 📫 How to reach me **shraddhatiwari8175@gmail.com**
-
+ -->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/shraddha tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shraddha tiwari" height="30" width="40" /></a>
