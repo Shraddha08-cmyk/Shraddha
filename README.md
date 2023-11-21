@@ -15,6 +15,9 @@
 <br>
 ## Projects
 <div >
+    <a href="https://momeals.in/" >
+    <img src="https://img.shields.io/badge/Momeals Foundation Live App-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
+  </a> <br/>
     <a href="https://amazon-clone-opal-ten.vercel.app/" >
     <img src="https://img.shields.io/badge/Amazon Clone-white?style=for-the-badge&logo=vercel&logoColor=blue" alt="Vercel Badge"/>
   </a> 
